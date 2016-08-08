@@ -1,0 +1,19 @@
+{
+  "name": "nodecb2promise",
+  "version": "0.0.2",
+  "description": "Small util to wrap node(-like) callback funtions into ES6 promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanderElias/nodeCB2promise.git"
+  },
+  "author": "Sander Elias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SanderElias/nodeCB2promise/issues"
+  },
+  "homepage": "https://github.com/SanderElias/nodeCB2promise#readme"
+}
